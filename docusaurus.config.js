@@ -18,9 +18,10 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'fuxiune', // Usually your GitHub org/user name.
+  organizationName: 'Fuxiune', // Usually your GitHub org/user name.
   projectName: 'fuxvault-tutorials', // Usually your repo name.
-  deploymentBranch: 'main',
+  deploymentBranch: 'deployment',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
