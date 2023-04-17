@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclassic=self.webpackChunkclassic||[]).push([[9052],{9128:l=>{l.exports=JSON.parse('{"label":"hello","permalink":"/fuxvault-tutorials/blog/tags/hello","allTagsPath":"/fuxvault-tutorials/blog/tags","count":2}')}}]);
