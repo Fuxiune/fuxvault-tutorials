@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclassic=self.webpackChunkclassic||[]).push([[4195],{2841:(e,s,t)=>{t.r(s),t.d(s,{default:()=>a});var c=t(7294),u=t(6550);function a(){return c.createElement(u.l_,{to:"/fuxvault-tutorials/docs"})}}}]);
