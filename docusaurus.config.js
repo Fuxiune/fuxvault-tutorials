@@ -11,14 +11,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://fuxiune.github.io',
+  url: 'https://Fuxiune.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/docs',
+  baseUrl: '/fuxvault-tutorials/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'fuxiune', // Usually your GitHub org/user name.
+  organizationName: 'Fuxiune', // Usually your GitHub org/user name.
   projectName: 'fuxvault-tutorials', // Usually your repo name.
   trailingSlash: false,
 
@@ -29,8 +29,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'de',
-    locales: ['en', 'de'],
+    defaultLocale: 'en',
+    locales: ['en'],
   },
 
   presets: [
