@@ -14,13 +14,12 @@ const config = {
   url: 'https://fuxiune.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/fuxvault-tutorials',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Fuxiune', // Usually your GitHub org/user name.
+  organizationName: 'fuxiune', // Usually your GitHub org/user name.
   projectName: 'fuxvault-tutorials', // Usually your repo name.
-  deploymentBranch: 'deployment',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
